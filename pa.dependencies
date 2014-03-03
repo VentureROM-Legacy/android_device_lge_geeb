@@ -77,9 +77,9 @@
     },
     {
         "remote":       "github",
-        "repository":   "xboxfanj/proprietary_vendor_lge",
+        "repository":   "VanirAOSP/proprietary_vendor_lge",
         "target_path":  "vendor/lge",
-        "revision":     "android-4.4"
+        "revision":     "kk44"
     },
     {
         "repository":   "android_kernel_lge_gee",
