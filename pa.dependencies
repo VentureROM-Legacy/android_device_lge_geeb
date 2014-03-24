@@ -77,7 +77,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "VanirAOSP/proprietary_vendor_lge",
+        "repository":   "VanirAOSP/vendor_lge",
         "target_path":  "vendor/lge",
         "revision":     "kk44"
     },
